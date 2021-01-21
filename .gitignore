@@ -1,0 +1,5 @@
+__pycache__/
+data/
+*.pt
+Models0-2000/
+Models2000-5000/
